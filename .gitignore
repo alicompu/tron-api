@@ -68,3 +68,4 @@ vendor/
 .idea/misc.xml
 .idea/modules.xml
 .idea/tron-api.iml
+.idea
